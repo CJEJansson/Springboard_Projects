@@ -31,3 +31,7 @@ Assignment:
            this year?
         g. Optional- What was the median trading volume
            during this year.
+           
+NOTE: The API_KEY value has been removed from the final 
+      submission per the assignment. To run this code, an API
+      key from Quandl is needed
