@@ -35,7 +35,7 @@ WHERE membercost =0
 
 SELECT COUNT( membercost )
 FROM Facilities
-WHERE membercost =0
+WHERE membercost > 0
 
 /* Q3: How can you produce a list of facilities that charge a fee to members,
 where the fee is less than 20% of the facility's monthly maintenance cost?
