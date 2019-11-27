@@ -1,4 +1,4 @@
 VaccineStatus,VaccineValue
 Vaccinated,1
 Not Vaccinated,2
-Unknown,0
+Unknown,3
