@@ -1,4 +1,4 @@
-,DewormStatus,DewormValue
-0,Dewormed,1
-1,Not Dewormed,2
-2,Unknown,0
+DewormStatus,DewormValue
+Dewormed,1
+Not Dewormed,2
+Unknown,3
