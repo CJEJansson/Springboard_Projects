@@ -1,0 +1,5 @@
+HealthStatus,HealthValue
+Healthy,1
+Minor Injury,2
+Serious Injury,3
+Unknown,0
