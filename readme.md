@@ -45,9 +45,10 @@ directly in pdf or PowerPoint format.
 Demonstrates use of JSON file to practice data wranlging using aggregate functions.
 Practice filling null values, investigation of skew, and removing duplicate or incorrect data.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/01_%20Data%20Wrangling%20Mini%20Project)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/01_%20Data%20Wrangling%20Mini%20Project)**
 
 Goals:
+
     * Practice working with the JSON format using a real life data set
     * Extract and manipulate data in JSON
     * Practice data wrangling skills
@@ -60,9 +61,10 @@ Goals:
 Learn and practice SQL. Utilized mode analytics for completion of project.
 Results are stored in a .sql file.
 
-See the full project[here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/02_%20SQL%20Mini%20Project)
+**See the full project[here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/02_%20SQL%20Mini%20Project)**
 
 Goals:
+
   * Work with SQL-based databases
   * Learn and write basic SQL queries up to basic aggregations and joins
   * Comment on SQL code
@@ -72,12 +74,14 @@ Goals:
 ### <span>API Mini Project<span><a name ="API"></a>
 Demonstrates use of Quandl API and additional data wrangling skills.
 
-See the full project[here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/03_API)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/03_API)**
 
 
 Goals:
+
   * Learn to use an API to gather data from the internet
   * Practice additional Data wrangling techniques
+
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/03_API/cjansson_20191001_api_data_wrangling_mini_project.ipynb)
 [nbviewer](https://nbviewer.jupyter.org/github/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/03_API/cjansson_20191001_api_data_wrangling_mini_project.ipynb)
 
@@ -85,39 +89,42 @@ Goals:
 This repository contains 2 ipynb files utilized to a) understand t and z tests and
 the central limit theorm and b)practice frequentist inference with real world data.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/04_Inferential_statistics)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/04_Inferential_statistics)**
 
 Goals:
+
   * Learn to calculate probabilities from probability density functions
   * Learn how and when to calculate descriptive statistics and test statistics.
   * Learn how the central limit theorem applies to sampling distributions.
   * Learn to calculate confidence intervals and p-values.
   * Learn to apply these steps to perform hypothesis testing on real data.
 
-[Github] (https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/04_Inferential_statistics)
+[Github](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/04_Inferential_statistics)
 
 ### <span>Bootstrap Inference Mini Project<span><a name ="Bootstrap"></a>
 Using the same dataset as the Inferential Statistics project, but analyze using
 bootstrapping to understand frequentism.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/05_%20Bootstrap_Inference)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/05_%20Bootstrap_Inference)**
 
 Goals:
+
   * Learn to calculate a confidence interval using the bootstrap method.
 	* Learn to calculate a p-value using the bootstrap.
 	* Learn to perform hypothesis tests using the bootstrap.
 	* Learn to apply the bootstrap to perform tests where the frequentist method does not apply.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/05_%20Bootstrap_Inference/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
-[nbviewer] (https://nbviewer.jupyter.org/github/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/05_%20Bootstrap_Inference/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
+[nbviewer](https://nbviewer.jupyter.org/github/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/05_%20Bootstrap_Inference/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
 
 ### <span>Baysean Inference Mini Project<span><a name ="Bayes"></a>
 Utilizing hospitial dataset from the other statistical mini projects to study the difference
 when it is analyzed using Baysean Inference.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/06_%20Bayesian_statistics)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/06_%20Bayesian_statistics)**
 
 Goals:
+
 	* Learn to propose a probabilistic model for data.
   * Learn to specify suitable prior distributions for parameters.
   * Learn to encode the complete model within a PyMC3 context.
@@ -132,9 +139,10 @@ Goals:
 Utilize a provided dataset to develop skills in Linear Regression.
 Heavy emphasis on scikit-learn. Includes prediction using linear regression models.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/07_Linear_regression)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/07_Linear_regression)**
 
 Goals:
+
 	* Learn basic machine learning algorithms, including supervised Learning:
     linear regression.
   * Practice applying machine learning algorithms to real data.
@@ -146,11 +154,11 @@ Goals:
 Utilize a provided dataset to develop skills in Logistic Regression for solving classification problems.
 Heavy emphasis on scikit-learn. Includes prediction using logistic regression models.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/08_Logistic_regression)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/08_Logistic_regression)**
 
 Goals:
-	* Learn basic machine learning algorithms, including supervised Learning:
-     logistic regressions.
+
+	* Learn basic machine learning algorithms, including supervised Learning: logistic regressions.
   * Practice applying machine learning algorithms to real data.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/08_Logistic_regression/Mini_Project_Logistic_Regression.ipynb)
@@ -160,9 +168,10 @@ Goals:
 ### <span>Naive Bayes Mini Project<span><a name ="NB"></a>
 Learn the basics of text analysis using rotten tomatose movie reviewes and Naive Bayes
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/09_Naive_bayes)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/09_Naive_bayes)**
 
 Goals:
+
 	* Learn the basic machine learning algorithms such as Supervised
      Learning Bayesian methods.
   * Practice applying machine learning algorithms to real data.
@@ -174,9 +183,10 @@ Goals:
 Utilizing K-means Clustering to generate a prediction engine and improve sales to customers by
 studying responses to marketing newsletters/e-mail campaigns.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/10_Clustering)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/10_Clustering)**
 
 Goals:
+
   * Learn the basic machine learning algorithms such as unsupervised Learning: K-Means clustering.
   * Practice applying machine learning algorithms to real data.
 
@@ -188,11 +198,11 @@ Goals:
 Utilizing Databricks Sparks to perform SQL analysis and build buinary classification
 models using SparkML.
 
-See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/11_SparksDF-SQL-ML%20Exercise-%20Databricks)
+**See the full project [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Mini%20Projects/11_SparksDF-SQL-ML%20Exercise-%20Databricks)**
 
 Goals:
-  *Work with Spark Datasets & Dataframes and some Spark SQL to build binary classification
-  models using SparkML and MLlib.I
+
+  *Work with Spark Datasets & Dataframes and some Spark SQL to build binary classification models using SparkML and MLlib.I
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/11_SparksDF-SQL-ML%20Exercise-%20Databricks/Spark%20DF%2C%20SQL%2C%20ML%20Exercise%20-%20Databricks.pdf)
 
@@ -205,13 +215,13 @@ This project has been broken into four sections, and the code for each section c
 3. **[Statistical Data Analysis:](https://github.com/CJEJansson/A-Home-for-All/blob/main/3.%20Statistical_Data_Analysis/Statistical_Data_Analysis.ipynb)** Analysing the statistical correlation between features of the dataset and Adoption Speed.
 4. **[In Depth Analysis:](https://github.com/CJEJansson/A-Home-for-All/blob/main/4.%20In-Depth%20Analysis/In_Depth_Analysis.ipynb)** Application of machine learning techniques to predict adoption speed.
 
-See the full project, including project-specific readme file, [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/A%20Home%20for%20All)
+**See the full project, including project-specific readme file, [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/A%20Home%20for%20All)**
 
-## <span>Capstone 2: Preidcting Cardiovascular Heart Disease<span> <a name ="PredictingCHD"></a>
+## <span>Capstone 2: Predicting Cardiovascular Heart Disease<span> <a name ="PredictingCHD"></a>
 Cardiovascular heart disease (CHD) is the leading cause of death annually worldwide. Cardiovascular diseases can, however, be managed if caught early and simple lifestyle changes are made. This project explores a set of data for patients measuring known factors for heart disease to develop a machine learning model to predict risk of developing heart disease within the next ten years.
 
 The project has been broken into two sections, and the code for each section can be found at the following:
-1. **[Data Wrangling, Storytelling, and Statistical Analysis](https://github.com/CJEJansson/Springboard_Projects/blob/master/Predicting%20Cardivascular%20Heart%20Disease/Predicting%20CHD%20-%20In-Depth%20Analysis.ipynb) Downloading data, extracting features, creating features, data clean up. Analyzing graphically and statistically the impact of each feature on the risk of developing CHD in the next 10 years. Analysing the statistical correlation between features of the dataset and the risk of developing CHD in the next 10 years.
-2. **[In-Depth Analysis](https://github.com/CJEJansson/Springboard_Projects/blob/master/Predicting%20Cardivascular%20Heart%20Disease/Predicting%20Cardiovascular%20Disease.ipynb Application of machine learning techniques to predict adoption speed.
+1. **[Data Wrangling, Storytelling, and Statistical Analysis](https://github.com/CJEJansson/Springboard_Projects/blob/master/Predicting%20Cardivascular%20Heart%20Disease/Predicting%20CHD%20-%20In-Depth%20Analysis.ipynb)** Downloading data, extracting features, creating features, data clean up. Analyzing graphically and statistically the impact of each feature on the risk of developing CHD in the next 10 years. Analysing the statistical correlation between features of the dataset and the risk of developing CHD in the next 10 years.
+2. **[In-Depth Analysis](https://github.com/CJEJansson/Springboard_Projects/blob/master/Predicting%20Cardivascular%20Heart%20Disease/Predicting%20Cardiovascular%20Disease.ipynb)** Application of machine learning techniques to predict adoption speed.
 
-See the full project, including project-specific readme file, [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Predicting%20Cardivascular%20Heart%20Disease)
+**See the full project, including project-specific readme file, [here](https://github.com/CJEJansson/Springboard_Projects/tree/master/Predicting%20Cardivascular%20Heart%20Disease)**
