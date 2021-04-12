@@ -112,9 +112,9 @@ bootstrapping to understand frequentism.
 Goals:
 
   * Learn to calculate a confidence interval using the bootstrap method.
-	* Learn to calculate a p-value using the bootstrap.
-	* Learn to perform hypothesis tests using the bootstrap.
-	* Learn to apply the bootstrap to perform tests where the frequentist method does not apply.
+  * Learn to calculate a p-value using the bootstrap.
+  * Learn to perform hypothesis tests using the bootstrap.
+  * Learn to apply the bootstrap to perform tests where the frequentist method does not apply.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/05_%20Bootstrap_Inference/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
 [nbviewer](https://nbviewer.jupyter.org/github/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/05_%20Bootstrap_Inference/Bootstrap_Inference_Mini-Project8.19/inferential_statistics_2-Q.ipynb)
