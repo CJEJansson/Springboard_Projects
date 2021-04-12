@@ -145,7 +145,7 @@ Heavy emphasis on scikit-learn. Includes prediction using linear regression mode
 
 Goals:
 
-	* Learn basic machine learning algorithms, including supervised Learning: linear regression.
+  * Learn basic machine learning algorithms, including supervised Learning: linear regression.
   * Practice applying machine learning algorithms to real data.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/07_Linear_regression/Mini_Project_Linear_Regression.ipynb)
@@ -159,7 +159,7 @@ Heavy emphasis on scikit-learn. Includes prediction using logistic regression mo
 
 Goals:
 
-	* Learn basic machine learning algorithms, including supervised Learning: logistic regressions.
+  * Learn basic machine learning algorithms, including supervised Learning: logistic regressions.
   * Practice applying machine learning algorithms to real data.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/08_Logistic_regression/Mini_Project_Logistic_Regression.ipynb)
@@ -173,7 +173,7 @@ Learn the basics of text analysis using rotten tomatose movie reviewes and Naive
 
 Goals:
 
-	* Learn the basic machine learning algorithms such as Supervised Learning Bayesian methods.
+  * Learn the basic machine learning algorithms such as Supervised Learning Bayesian methods.
   * Practice applying machine learning algorithms to real data.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/09_Naive_bayes/Mini_Project_Naive_Bayes.ipynb)
