@@ -1,11 +1,7 @@
 # **Welcome!<span>**
 
-share
-![](https://tenor.com/view/hello-wave-minions-kiss-gif-12087821)
 
-embed
-![](<div class="tenor-gif-embed" data-postid="12087821" data-share-method="host" data-width="100%" data-aspect-ratio="1.7777777777777777"><a href="https://tenor.com/view/hello-wave-minions-kiss-gif-12087821">Hello Wave GIF</a> from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
-
+![](https://tenor.com/view/hello-wave-minions-kiss-gif-12087821.gif)
 
 This repo contains a portfolio of work generated during the completion of
 Springboard's Data Science Career Track. The list of contents contained herein
