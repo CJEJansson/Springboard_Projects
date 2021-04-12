@@ -51,9 +51,9 @@ Practice filling null values, investigation of skew, and removing duplicate or i
 
 Goals:
 
-    * Practice working with the JSON format using a real life data set
-    * Extract and manipulate data in JSON
-    * Practice data wrangling skills
+  * Practice working with the JSON format using a real life data set
+  * Extract and manipulate data in JSON
+  * Practice data wrangling skills
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/01_%20Data%20Wrangling%20Mini%20Project/sliderule_dsi_json_exercise_cjansson.ipynb)
 [nbviewer](https://nbviewer.jupyter.org/github/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/01_%20Data%20Wrangling%20Mini%20Project/sliderule_dsi_json_exercise_cjansson.ipynb)
