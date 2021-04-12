@@ -1,6 +1,6 @@
 ![](assets/readme-20fbeb24.jpg)
 
-#<span>**Predicting Cardiovascular Heart Disease**<span>
+#<span>Predicting Cardiovascular Heart Disease<span>
 
 ## <span>Overview<span>
 Cardiovascular heart disease (CHD) is the leading cause of death annually worldwide. Cardiovascular diseases can, however, be managed if caught early and simple lifestyle changes are made. This project explores a set of data for patients measuring known factors for heart disease to develop a machine learning model to predict risk of developing heart disease within the next ten years.
