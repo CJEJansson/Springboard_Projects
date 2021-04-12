@@ -128,7 +128,7 @@ when it is analyzed using Baysean Inference.
 
 Goals:
 
-	* Learn to propose a probabilistic model for data.
+  * Learn to propose a probabilistic model for data.
   * Learn to specify suitable prior distributions for parameters.
   * Learn to encode the complete model within a PyMC3 context.
   * Learn to generate posterior distributions for the model parameters.
@@ -146,8 +146,7 @@ Heavy emphasis on scikit-learn. Includes prediction using linear regression mode
 
 Goals:
 
-	* Learn basic machine learning algorithms, including supervised Learning:
-    linear regression.
+	* Learn basic machine learning algorithms, including supervised Learning: linear regression.
   * Practice applying machine learning algorithms to real data.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/07_Linear_regression/Mini_Project_Linear_Regression.ipynb)
@@ -175,8 +174,7 @@ Learn the basics of text analysis using rotten tomatose movie reviewes and Naive
 
 Goals:
 
-	* Learn the basic machine learning algorithms such as Supervised
-     Learning Bayesian methods.
+	* Learn the basic machine learning algorithms such as Supervised Learning Bayesian methods.
   * Practice applying machine learning algorithms to real data.
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/09_Naive_bayes/Mini_Project_Naive_Bayes.ipynb)
@@ -205,7 +203,7 @@ models using SparkML.
 
 Goals:
 
-  *Work with Spark Datasets & Dataframes and some Spark SQL to build binary classification models using SparkML and MLlib.I
+  * Work with Spark Datasets & Dataframes and some Spark SQL to build binary classification models using SparkML and MLlib.I
 
 [Github](https://github.com/CJEJansson/Springboard_Projects/blob/master/Mini%20Projects/11_SparksDF-SQL-ML%20Exercise-%20Databricks/Spark%20DF%2C%20SQL%2C%20ML%20Exercise%20-%20Databricks.pdf)
 
