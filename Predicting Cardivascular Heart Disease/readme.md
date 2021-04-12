@@ -1,5 +1,6 @@
 ![](assets/readme-20fbeb24.jpg)
-#**Predicting Cardiovascular Heart Disease**
+
+#<span>**Predicting Cardiovascular Heart Disease**<span>
 
 ## <span>Overview<span>
 Cardiovascular heart disease (CHD) is the leading cause of death annually worldwide. Cardiovascular diseases can, however, be managed if caught early and simple lifestyle changes are made. This project explores a set of data for patients measuring known factors for heart disease to develop a machine learning model to predict risk of developing heart disease within the next ten years.
@@ -122,7 +123,7 @@ A summary of the cross-validation accuracy scores for both sets of features and 
 ## <span>Author<span>
 
 * **Caitlin Jansson** - August 8th, 2021
-*
+
 ## <span>Acknowledgments <span>
 
   * https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2813%2961752-3/fulltext
