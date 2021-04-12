@@ -15,7 +15,6 @@ via email at caitlinjejansson (AT) gmail.com
 ## <span><span style="color:mediumpurple">Table of Contents<span>
 * [Getting Started](#GettingStarted)
   * Requirements
-
 * [Mini Projects](#MiniProjects)
   * [Data Wrangling](#MPWrangling)
   * [SQL](#SQL)
