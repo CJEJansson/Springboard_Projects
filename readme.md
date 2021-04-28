@@ -42,7 +42,7 @@ listed at the top of each notebook.
 Reports and presentations can be viewed online using GitHub, or can be downloaded
 directly in pdf or PowerPoint format.
 
-## <span>Getting Started<span> <a name ="MiniProjects"></a>
+## <span>Mini Projects<span> <a name ="MiniProjects"></a>
 ### <span>Data Wrangling Mini Project<span><a name ="MPWrangling"></a>
 Demonstrates use of JSON file to practice data wranlging using aggregate functions.
 Practice filling null values, investigation of skew, and removing duplicate or incorrect data.
